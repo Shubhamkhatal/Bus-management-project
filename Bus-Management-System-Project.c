@@ -1,5 +1,12 @@
 #include<stdio.h>
+<<<<<<< Updated upstream
 /* trying Git Desktop */
+=======
+/*
+
+trying github Desktop
+*/
+>>>>>>> Stashed changes
 int i,n=20,j,m,t;
 	char s,c[2];
 	int cc;
